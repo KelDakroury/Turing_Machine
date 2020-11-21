@@ -1,2 +1,3 @@
 # Turing_Machine
-A Turing Machine implementation
+
+Implement a Turing machine following a graphical representation
